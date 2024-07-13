@@ -1,3 +1,4 @@
+import langchain_community
 import streamlit as st
 from langchain.llms import OpenAI
 
