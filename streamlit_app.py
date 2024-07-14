@@ -1,4 +1,4 @@
-import langchain
+from langchain_community.vectorstores import FAISS
 import streamlit as st
 from langchain.llms import OpenAI
 
